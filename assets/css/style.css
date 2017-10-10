@@ -11,3 +11,14 @@
 .btn-primary {background-color: #777;}
 
 .center {position: center;}
+
+
+.navbar-header, .navbar-default, .navbar {background-color: #4cbb17;}
+
+.panel-title {color: #4cbb17;}
+
+.navbar-brand, .nav, .navbar-nav, .navbar-right, .navbar-collapse, .navbar, .navbar-header, .navbar-default, #bs-example-navbar-collapse-1, ul, li {color: #ffffff !important;}
+
+p, .panel-footer, #fact-display, .panel-body {color: #4cbb17;}
+
+h1, h2, h3, .panel-title, .button {color: #005073;}
