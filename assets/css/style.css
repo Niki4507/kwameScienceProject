@@ -1,6 +1,8 @@
-.bg-image {background-image: url("../images/background.png");}
+
 
 .container{float: left;}
+
+#bg-image {background-image: url("../images/background.png");}
 
 .extraspace{margin-bottom: 20px;
 			margin-top: 20px;}
