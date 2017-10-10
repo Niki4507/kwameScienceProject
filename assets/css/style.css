@@ -6,9 +6,9 @@
 .panel-footer{background-color: white;
               text-align: center;}
 
-.btn{border-color: #777;}
+.btn{border-color: #005073;}
 
-.btn-primary {background-color: #777;}
+.btn-primary {background-color: #005073;}
 
 .center {position: center;}
 
@@ -17,7 +17,7 @@
 
 .panel-title {color: #4cbb17;}
 
-.navbar-brand, .nav, .navbar-nav, .navbar-right, .navbar-collapse, .navbar, .navbar-header, .navbar-default, #bs-example-navbar-collapse-1, ul, li {color: #ffffff !important;}
+.navbar-brand, .nav, .navbar-nav, .navbar-right, .navbar-collapse, .navbar, .navbar-header, .navbar-default, #bs-example-navbar-collapse-1, ul, li, a {color: #ffffff !important;}
 
 p, .panel-footer, #fact-display, .panel-body {color: #4cbb17;}
 
