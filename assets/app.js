@@ -14,7 +14,7 @@ var facts = [
     "William Morrison built the first electric car",
     "Electricity in Albertville, France is produced by cheese",
     "Most of Quebec's electricity is produce from water - 96% is from hydroelectricity",
-    "Electric eels produce around 500 volts of electricity and use it for hunting and self defense",
+    "Electric eels use electricity for hunting and self defense",
     "Michael Faraday is known as the Father of Electricity",
 
 ];
